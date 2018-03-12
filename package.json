@@ -4,7 +4,7 @@
   "description": "SAPUI5 compiler for typescript",
   "main": "tsc.js",
   "author": "Gabriel Borges",
-  "license": "MIT",
+  "license": "Apache v2",
   "private": false,
   "dependencies": {
     "ttypescript": "^1.0.7",
