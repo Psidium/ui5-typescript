@@ -1,0 +1,13 @@
+{
+  "name": "ts-ui5",
+  "version": "0.0.1",
+  "description": "SAPUI5 compiler for typescript",
+  "main": "tsc.js",
+  "author": "Gabriel Borges",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "ttypescript": "^1.0.7",
+    "typescript": "^2.7.2"
+  }
+}

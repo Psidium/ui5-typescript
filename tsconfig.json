@@ -1,0 +1,15 @@
+{
+    "compilerOptions": {
+        "target": "es5",
+        "module": "amd",
+        "plugins": [
+            {
+                "customTransformers": {
+                    "after": ["./transformers/ui5emitter.ts"]
+                }
+            }
+        ]
+    },
+    "include": [ "test/**/*"],
+    "exclude": ["transformers/**/*"]
+}
